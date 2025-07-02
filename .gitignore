@@ -1,2 +1,4 @@
 node_modules
 config.env
+# Ignore all mp4 files in the demo folder
+demo/*.mp4
