@@ -7,7 +7,6 @@
 
 ---
 
-### If you find this project helpful, please consider giving it a star ⭐ and follow me on [GitHub](https://github.com/MehraDevesh2022) && [X](https://twitter.com/Iam_DEv22) for more exciting projects like this! 🚀
 
 
 ---
@@ -75,8 +74,8 @@ https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/bfc07258-
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/MehraDevesh2022/CricketWeapon-Store.git
-    cd CricketWeapon-Store
+    git clone https://github.com/loose-pants/CricketStore.git
+    cd CricketStore
     ```
 2.  Install dependencies:
     ```bash
@@ -320,11 +319,4 @@ This guide will walk you through the process of hosting your complete MERN stack
 
 - Congratulations! Your app is now live and accessible.
 
-## Contributions
-
-| Contributor                                           |
-| ----------------------------------------------------- |
-| [ImgBotApp](https://github.com/ImgBotApp)             |
-| [MehraDevesh2022](https://github.com/MehraDevesh2022) |
-| [0dayhunter](https://github.com/MehraDevesh2022) |
 
