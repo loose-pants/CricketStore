@@ -108,22 +108,22 @@ const footMenu = [
    {
      id: 1,
      icon: <FacebookIcon className="facebook_icon" fontSize="large" />,
-     path: "https://www.instagram.com/iam_nightbot/",
+     path: "",
    },
    {
      id: 2,
      icon: <TwitterIcon className="twitter_icon" fontSize="large" />,
-     path: "https://twitter.com/Iam_DEv22",
+     path: "",
    },
    {
      id: 3,
      icon: <InstagramIcon className="insta_icon" fontSize="large" />,
-     path: "https://www.instagram.com/cricket_weapon_store17",
+     path: "",
    },
    {
      id: 4,
      icon: <LinkedInIcon className="likedin_icon" fontSize="large" />,
-     path: "https://www.linkedin.com/in/iam-devesh/",
+     path: "",
    },
  ];
 
@@ -267,7 +267,7 @@ const Footer = () => {
                 <p>
                   &copy; {currYear} | Cricket weapon, All Rights Reserved.
                   <span>
-                    <a href="iam-devesh.tech"> | Built by Iam_DEv</a>
+                    <a href=""> | Built by ME</a>
                   </span>
                 </p>
               </div>
